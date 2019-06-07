@@ -1,0 +1,3 @@
+[submodule "ext/clement"]
+	path = ext/clement
+	url = https://github.com/clenemt/docdash.git
